@@ -6,4 +6,4 @@ Projeto de árvore de Natal para ser feito com impressora 3D e Arduino, contendo
 
 ## Vídeo
 
-[Clique aqui para assistir ao vídeo do projeto](Docs/vid1.mp4)
+[![Assista ao vídeo do projeto](https://img.youtube.com/vi/Lx5H741T2u4/maxresdefault.jpg)](https://youtube.com/shorts/Lx5H741T2u4)
